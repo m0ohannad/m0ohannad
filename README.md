@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohannad</h1>
-<h3 align="center">Full stack web developer | CS Student at Taibah uni.</h3>
+<h3 align="center">Full stack web developer | Blockchain | Web 3.0</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0ohannad&label=Profile%20views&color=0e75b6&style=plastic" alt="m0ohannad" /> </p>
 
